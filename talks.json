@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "Scaling Microservices with Kubernetes",
+    "speakers": ["Alice Chen"],
+    "categories": ["DevOps", "Cloud"],
+    "description": "A deep dive into orchestration patterns and best practices for managing high-scale microservices architectures using Kubernetes.",
+    "startTime": "10:00 AM",
+    "endTime": "11:00 AM"
+  },
+  {
+    "id": 2,
+    "title": "Modern State Management in React",
+    "speakers": ["Bob Smith", "Charlie Day"],
+    "categories": ["Frontend", "JavaScript"],
+    "description": "Comparing Redux, Recoil, and Context API to find the best fit for your next application's complexity.",
+    "startTime": "11:10 AM",
+    "endTime": "12:10 PM"
+  },
+  {
+    "id": 3,
+    "title": "The Future of AI: LLMs and Beyond",
+    "speakers": ["Dr. Emily Wong"],
+    "categories": ["AI", "ML"],
+    "description": "Exploring generative models, the impact of Large Language Models on software development, and what's next for artificial intelligence.",
+    "startTime": "12:20 PM",
+    "endTime": "01:20 PM"
+  },
+  {
+    "id": "lunch",
+    "title": "Lunch Break",
+    "speakers": [],
+    "categories": ["Break"],
+    "description": "Time to refuel and network with other attendees.",
+    "startTime": "01:20 PM",
+    "endTime": "02:20 PM",
+    "isBreak": true
+  },
+  {
+    "id": 4,
+    "title": "Secure by Design: Building Robust APIs",
+    "speakers": ["John Doe"],
+    "categories": ["Security", "Backend"],
+    "description": "Best practices for implementing Authentication, Authorization, and Data Integrity in modern REST and GraphQL APIs.",
+    "startTime": "02:20 PM",
+    "endTime": "03:20 PM"
+  },
+  {
+    "id": 5,
+    "title": "WebAssembly: High Performance in the Browser",
+    "speakers": ["Sarah Miller"],
+    "categories": ["WASM", "Web"],
+    "description": "How to bring high-performance C++, Rust, and Go code to the web using WebAssembly for compute-intensive tasks.",
+    "startTime": "03:30 PM",
+    "endTime": "04:30 PM"
+  },
+  {
+    "id": 6,
+    "title": "Optimizing Postgres for High Load",
+    "speakers": ["Michael Brown"],
+    "categories": ["Database", "Backend"],
+    "description": "Advanced indexing strategies, query optimization techniques, and connection pooling for high-performance PostgreSQL databases.",
+    "startTime": "04:40 PM",
+    "endTime": "05:40 PM"
+  }
+]
